@@ -1,4 +1,4 @@
-package com.arrows.security.config.filter;
+package com.arrows.security.config.security.filter;
 
 import com.arrows.security.util.JwtUtil;
 import com.auth0.jwt.interfaces.DecodedJWT;
